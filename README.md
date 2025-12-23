@@ -14,7 +14,7 @@ Telegram-бот, который учит становлению топовым �
 - [Telegram Desktop](https://desktop.telegram.org/?setln=ru)
 - [Microsoft Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
 - [Microsoft Visual Studio Code](https://code.visualstudio.com/)
-- В [Microsoft Visual Studio 2022](https://visualstudio.microsoft.com/vs/)надо установить пакет NuGet Telegram.Bot последнюю версию.
+- В [Microsoft Visual Studio 2022](https://visualstudio.microsoft.com/vs/) надо установить пакет NuGet Telegram.Bot последнюю версию.
 
 ## Особенности
 - 📚 Основы мастерства блогера

@@ -25,7 +25,7 @@ Telegram-бот, который учит становлению топовым �
 - 🧪 Тестовые задания с проверкой
 
 ## Настройка
-1. Получите токен бота у [@BotFather](https://t.me/BotFather)
+1. Получите токен в телеграмм у бота [@BotFather](https://t.me/BotFather)
 2. Скопируйте `appsettings.example.json` в `appsettings.json`
 3. Вставьте токен в поле `BotToken`
 4. Запустите проект
@@ -43,7 +43,7 @@ Telegram-бот, который учит становлению топовым �
 - [Telegram Desktop](https://desktop.telegram.org/?setln=ru)
 - [Microsoft Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
 - [Microsoft Visual Studio Code](https://code.visualstudio.com/)
-- В [Microsoft Visual Studio 2022](https://visualstudio.microsoft.com/vs/)надо установить пакет NuGet Telegram.Bot последнюю версию.
+- В [Microsoft Visual Studio 2022](https://visualstudio.microsoft.com/vs/)  надо установить пакет NuGet Telegram.Bot последнюю версию.
 
 ## Как установить
 
